@@ -1,0 +1,1 @@
+print(2**3) # This just written 2^3
